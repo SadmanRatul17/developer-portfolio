@@ -1,0 +1,42 @@
+.welcome-font{
+    font-family: 'Splash', cursive;
+    font-size: 30px;
+    margin: 11px 0px 5px 10px;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+    
+}
+.color{
+    color: orange;
+}
+            
+section{
+    display: flex;
+}
+.half-width{
+  width:50%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+   background-image: linear-gradient(orange,tomato);
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+     margin: 10px;
+     font-size: 10px;
+    
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    padding: 0px 0px 2px 10px;
+}
+h6,h5{
+    margin: 10px;
+}

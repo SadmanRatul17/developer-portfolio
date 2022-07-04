@@ -2,6 +2,7 @@
     font-family: 'Splash', cursive;
     font-size: 30px;
     margin: 11px 0px 5px 10px;
+    padding:19px 0px 0px 10px ;
 }
 body{
     font-family: 'Open Sans', sans-serif;
@@ -10,6 +11,7 @@ body{
 }
 .color{
     color: orange;
+   
 }
             
 section{
@@ -18,6 +20,7 @@ section{
 }
 .half-width{
   width:50%;
+
 }
 .half-width img{
     width: 100%;
@@ -48,4 +51,25 @@ section{
     background: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position:right;
+}
+.box{
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    border-radius: 10px;
+    border-left: 5px solid blue;
+}
+#orange{
+    border-left: 5px solid tomato;
+}
+.experience{
+    background: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    
+}
+footer{
+    padding-top: 10px;
+    text-align: center;
 }
